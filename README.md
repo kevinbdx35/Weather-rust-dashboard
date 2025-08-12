@@ -2,7 +2,7 @@
 
 A modern, real-time weather station telemetry dashboard built with Rust and egui. This application provides comprehensive monitoring of weather conditions with a clean, responsive, and professional interface focused exclusively on meteorological data.
 
-![dashboard](chemin/vers/image.png)
+![dashboard](https://github.com/kevinbdx35/Weather-rust-dashboard/blob/main/img.png?raw=true)
 
 
 ## Features
